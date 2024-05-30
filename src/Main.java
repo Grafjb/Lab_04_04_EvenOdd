@@ -9,3 +9,4 @@ public class Main {
         System.out.println("The number " + numToExamine + " is " + result);
     }
 }
+
